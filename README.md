@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dev.choiey@gmail.com**
 
-- ⚡ Fun fact **I am ESFP😋**
+- ⚡ Fun fact **I am ESFP**
 
 
 <h3 align="left">Languages and Tools:</h3>
