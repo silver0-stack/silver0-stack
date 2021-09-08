@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm 최은영</h1>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" >
+<h1 align="center">Hi 👋, I'm 최은영</h1></img>
 <h3 align="center">웹 백엔드 개발자를 목표로 다양하게 경험하고 기록합니다.</h3>
 
 - 🌱 I’m currently learning **spring, android, python**
