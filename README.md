@@ -20,6 +20,6 @@
 
 <br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silver0-stack&show_icons=true&theme=dark&locale=en&layout=compact" alt="silver0-stack" All inbuilt themes="dark" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silver0-stack&show_icons=true&locale=en&theme=dark" alt="silver0-stack"/></p>
+<br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silver0-stack&show_icons=true&locale=en&theme=dark" alt="silver0-stack"/></p>
 
 
