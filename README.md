@@ -1,8 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" >
-<h1 align="center">Hi 👋, I'm 최은영</h1></img>
-<h3 align="center">웹 백엔드 개발자를 목표로 다양하게 경험하고 기록합니다.</h3>
 
-- 🌱 I’m currently learning **spring, android, python**
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm 최은영&fontSize=90)
+
+<h1 align="center">Hi 👋, Welcome to my profile !</h1>
+
+<h3 align="center">웹 백엔드 개발자를 목표로 다양하게 경험하고 기록합니다.<br>Experience and record unlimitedly to be a web backend developer.</h3>
+
+- 👩‍💻 I’m currently learning **Spring, Android, Python**
 
 - 📝 I regularly write articles on [https://velog.io/@qmfpsp](https://velog.io/@qmfpsp)
 
