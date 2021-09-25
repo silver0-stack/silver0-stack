@@ -3,9 +3,9 @@
 
 <h1 align="center">Hi 👋, Welcome to my profile !</h1>
 
-<h3 align="center">웹 백엔드 개발자를 목표로 다양하게 경험하고 기록합니다.<br>Experience and record unlimitedly to be a web backend developer.</h3><br>
+<h3 align="center">다양하게 경험하고 기록합니다.<br>Experience and record no limit.</h3><br>
 
-- 👩‍💻 I’m currently learning **Spring, Android, Python**
+- 👩‍💻 I’m currently learning **Android, Python, C++**
 
 - 📝 I regularly write articles on [https://velog.io/@qmfpsp](https://velog.io/@qmfpsp)
 
