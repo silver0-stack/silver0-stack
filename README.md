@@ -1,13 +1,13 @@
 
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=EunYoungChoi&fontSize=90)-->
 
-<h1 align="center">Hi 👋, Welcome to my profile !</h1>
+<h1 align="left">공부 중...!</h1>
 
-<h3 align="center">다양하게 경험하고 기록합니다.<br>Experience and record no limit.</h3><br>
+<h3 align="left">부족한 점이 많아 공부 중입니다.<br>I'm still training because I don't know much...</h3><br>
 
-- 👩‍💻 I’m currently learning **Android, Python, C++**
+- 👩‍💻 I’m currently learning **Android, SpringBoot**
 
-- 📝 I regularly write articles on [https://velog.io/@qmfpsp](https://velog.io/@qmfpsp)
+- 📝 I very rarely write articles on [https://velog.io/@qmfpsp](https://velog.io/@qmfpsp)
 
 - 📫 How to reach me **dev.choiey@gmail.com**
 
