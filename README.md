@@ -3,7 +3,7 @@
 
 <h1 align="left">공부 중...!</h1>
 
-<h3 align="left">부족한 점이 많아 공부 중입니다.<br>I'm still training because I don't know much...</h3><br><br>
+<h3 align="left">부족한 점이 많아 공부 중입니다.</h3><br><br>
 
 - 👩‍💻 I’m currently learning **Android, SpringBoot**
 
