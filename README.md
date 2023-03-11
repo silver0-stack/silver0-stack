@@ -1,17 +1,17 @@
 
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=EunYoungChoi&fontSize=90)-->
 
-<h1 align="left">공부 중...!</h1>
+<h1 align="left">Studying to be a specialist</h1>
 
-<h3 align="left">부족한 점이 많아 공부 중입니다.</h3><br><br>
+<h3 align="left">Web backend is HARD BUT FUNNY </h3><br><br>
 
-- 👩‍💻 I’m currently learning **Android, SpringBoot**
+- 👩‍💻 I’m currently learning **SpringBoot**
 
 - 📝 I very rarely write articles on [https://velog.io/@qmfpsp](https://velog.io/@qmfpsp)
 
 - 📫 How to reach me **dev.choiey@gmail.com**
 
-- ⚡ Fun fact **I am ESFP**<br>
+- ⚡ Fun fact **I am ISTP**<br>
 
 <br>
 
