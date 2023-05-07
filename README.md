@@ -31,7 +31,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=6DB33F)&nbsp;
 ![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-05122A?style=flat&logo=SpringSecurity&logoColor=6DB33F)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-05122A?style=flat-square&logo=Notion&logoColor=white)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-05122A?style=flat-square&logo=slack&logoColor=4A154B)&nbsp;
 ![Discord](https://img.shields.io/badge/Discord-05122A?style=flat-square&logo=discord&logoColor=5865F2)&nbsp;
 <hr />
