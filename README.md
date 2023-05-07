@@ -1,4 +1,4 @@
-![](https://github.com/silver0-stack/silver0-stack/cord.gif)
+![](https://user-images.githubusercontent.com/76518850/236680034-5cd73138-4ad0-47cb-a38f-cd8dfebe5087.gif)
 <p align="center">
 	<a href="mailto:dev.choiey@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -41,4 +41,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=silver0-stack&show_icons=true&theme=dark&locale=en&layout=compact" alt="silver0-stack" All inbuilt themes="dark" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=silver0-stack&show_icons=true&locale=en&theme=dark" alt="silver0-stack"/>
 </p>
-
