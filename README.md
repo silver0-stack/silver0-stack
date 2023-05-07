@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="eyes.jpg" width="100%">
-</p>
+![](https://github.com/silver0-stack/silver0-stack/cord.gif)
 <p align="center">
 	<a href="mailto:dev.choiey@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
