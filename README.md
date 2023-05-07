@@ -1,4 +1,6 @@
-![](https://user-images.githubusercontent.com/76518850/236680034-5cd73138-4ad0-47cb-a38f-cd8dfebe5087.gif)
+<p align="center>
+<img src="https://user-images.githubusercontent.com/76518850/236680034-5cd73138-4ad0-47cb-a38f-cd8dfebe5087.gif" width=100%/>
+</p>
 <p align="center">
 	<a href="mailto:dev.choiey@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
