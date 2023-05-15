@@ -12,9 +12,9 @@
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>👋 &nbsp;Hi there!</p>
-<p>🔍 &nbsp;Me focusing on developing web services to be deployed..</p>
-<p>🌱 &nbsp;Currently, me studying SpringBoot, Spring Web Layer, SpringSecurity etc. </p>
+<p>👋 &nbsp;Hi there! </p>
+<p>🔍 &nbsp;I'm focusing on developing web services to be deployed..</p>
+<p>🌱 &nbsp;Currently, studying React, Javascript, SpringBoot, Spring Web Layer, SpringSecurity etc. </p>
 
 
 <br />
