@@ -14,25 +14,32 @@
 
 <p>👋 &nbsp;Hi there! </p>
 <p>🔍 &nbsp;I'm focusing on developing web services to be deployed..</p>
-<p>🌱 &nbsp;Currently, studying React, Javascript, SpringBoot, Spring Web Layer, SpringSecurity etc. </p>
+<p>🌱 &nbsp;Currently, studying SpringBoot , Java etc. </p>
 
 
 <br />
 
-## 🛠 &nbsp;Tech Stack:
-### 💻 &nbsp;Languages:
+## 📚 &nbsp;Stack:
+### 🗣️  &nbsp;Languages:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=6DB33F)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=7F52FF)&nbsp;
+### 🚀 &nbsp;Tech:
 
-### 🚀 &nbsp;Technologies:
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/SpringSecurity-%236DB33F.svg?style=for-the-badge&logo=SpringSecurity&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=SpringBoot&logoColor=6DB33F)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=6DB33F)&nbsp;
-![SpringSecurity](https://img.shields.io/badge/-SpringSecurity-05122A?style=flat&logo=SpringSecurity&logoColor=6DB33F)&nbsp;
-![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-05122A?style=flat-square&logo=Notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-05122A?style=flat-square&logo=slack&logoColor=4A154B)&nbsp;
+### 💬 &nbsp;Communication:
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+### 🛠️ &nbsp;Environment:
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <hr />
 
