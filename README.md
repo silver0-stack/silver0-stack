@@ -11,11 +11,11 @@
 </p>
 
 ## 👨🏻‍💻 &nbsp;Currently Me:
-👋 &nbsp;Hi there!   
+🎉 &nbsp;[MUMUL(Ask Me Anything Service)](https://mumul.space) has been successfully deployed❗    
 
-🔍 &nbsp;Ask me anything in [here](https://mumul.space/11) 
+🤸‍♀️ &nbsp;Feel free to ask me anything in [my MUMUL space](https://mumul.space/11) :D
 
-🌱 &nbsp; studying `SpringBoot` , `Java` etc. 
+👩‍💻 &nbsp;Studying `SpringBoot` , `Java` etc. 
 
 
 <br />
