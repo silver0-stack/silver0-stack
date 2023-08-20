@@ -15,7 +15,7 @@
 
 🤸‍♀️ &nbsp;Feel free to ask me anything in [my MUMUL space](https://mumul.space/11) :D
 
-👩‍💻 &nbsp;Be aiming to be a full stack developer.
+👩‍💻 &nbsp;I aim to be a `full-stack` developer, and really hope one day.
 
 
 <br />
