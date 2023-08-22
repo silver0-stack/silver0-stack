@@ -20,6 +20,8 @@
 
 🤸‍♀️ &nbsp;Feel free to ask me anything in [my MUMUL space](https://mumul.space/11) :D
 
+💌 &nbsp;If you want to contact MUMUL for anything, please contact us [here](https://mumul.space/19).
+
 👩‍💻 &nbsp;I aim to be a `full-stack` developer, and really hope one day.
 
 
