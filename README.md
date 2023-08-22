@@ -3,7 +3,7 @@
 <img src="myspace.png" width=80%/>
 </p>
 <p align="center">
-  <strong style="color: grey;">☝️저의 MUMUL 스페이스입니다☝️</strong>
+  <strong style="color: grey;">☝️This is my MUMUL space☝️</strong>
 </p>
 <br></br>
 <p align="center">
