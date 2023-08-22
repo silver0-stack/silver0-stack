@@ -18,7 +18,7 @@
 ## 👨🏻‍💻 &nbsp;Currently Me:
 🎉 &nbsp;[MUMUL(Ask Me Anything Service)](https://mumul.space) has been successfully deployed❗    
 
-🤸‍♀️ &nbsp;Feel free to ask me anything in [my MUMUL space](https://mumul.space/11) :D
+🤸‍♀️ &nbsp;Feel free to ask me anything in [my personal MUMUL space](https://mumul.space/11) :D
 
 💌 &nbsp;If you want to contact MUMUL for anything, please contact us [here](https://mumul.space/19).
 
