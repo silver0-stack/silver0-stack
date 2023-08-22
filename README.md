@@ -3,6 +3,10 @@
 <img src="myspace.png" width=70%/>
 </p>
 <p align="center">
+  <strong style="color: grey;">☝️저의 MUMUL 스페이스입니다☝️</strong>
+</p>
+<br></br>
+<p align="center">
 	<a href="mailto:dev.choiey@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
