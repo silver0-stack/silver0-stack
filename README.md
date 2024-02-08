@@ -3,9 +3,9 @@
 <img src="myspace.png" width=80%/>
 </p>
 <p align="center">
-  <strong style="color: grey;">☝️This is my personal MUMUL space☝️</strong>
+  <strong style="color: grey;">☝️ 저의 스페이스 스크린샷입니다 !☝️</strong>
 </p>
-<br></br>
+
 <p align="center">
 	<a href="mailto:dev.choiey@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -16,13 +16,13 @@
 </p>
 
 ## 👨🏻‍💻 &nbsp;Currently Me:
-🎉 &nbsp;[MUMUL(Ask Me Anything Service)](https://mumul.space) has been successfully deployed❗    
+🎉 &nbsp; [MUMUL(Ask Me Anything)](https://mumul.site)가 성공적으로 배포되었습니다❗    
 
-🤸‍♀️ &nbsp;Feel free to ask me anything in [my personal MUMUL space](https://mumul.space/11) :D
+🤸‍♀️ &nbsp; [저의 개인 스페이스](https://mumul.site/4)에 놀러 오셔서 무물해주시면 답변 해드립니다 :D
 
-💌 &nbsp;If you want to contact MUMUL for anything, please contact us [here](https://mumul.space/19).
+💌 &nbsp; 무엇이든 MUMUL에 대해서 문의사항이 있으시면, [MUMUL 개발자 스페이스](https://mumul.site/7)에 무물을 주시거나, `dev.choiey@gmail.com`으로 메일 남겨주세요.
 
-👩‍💻 &nbsp;I aim to be a `full-stack` developer, and really hope one day.
+👩‍💻 &nbsp; `full-stack` 엔지니어가 되는 것을 목표로 두고 있습니다.
 
 
 <br />
