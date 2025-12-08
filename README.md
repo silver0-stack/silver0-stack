@@ -32,6 +32,13 @@
 <img src="https://img.shields.io/badge/Firebase-000000?logo=firebase&logoColor=FFCA28"/> 
 
 ---
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=silver0-stack&show_icons=true&theme=default" alt="GitHub Stats" />
+<br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=silver0-stack&layout=compact" alt="Top Langs" />
+
+---
 
 > 함께 사용자 경험을 개선하며,  
 > 의미 있는 서비스를 만들고 싶습니다. 🚀
