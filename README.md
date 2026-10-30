@@ -9,6 +9,8 @@
 
 ### Projects
 
+솔, 스크랩모아, CINELOG는 퇴사 후 Claude Code로 직접 기획하고 배포한 프로젝트입니다.
+
 | 프로젝트 | 소개 | 링크 |
 |---|---|---|
 | **솔 · 비대면진료 검토** | 비대면 진료 요청마다 재진 여부와 처방 가능 여부를 확인하는 의원용 웹 서비스 | [Live](https://telehealth-revisit-console.vercel.app) · [Repo](https://github.com/silver0-stack/telehealth-revisit-console) |
@@ -27,6 +29,7 @@
 <img src="https://img.shields.io/badge/JPA%2FHibernate-000000?logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-000000?logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-000000?logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-000000?logo=oracle&logoColor=white"/>
 
 **Infra / DevOps**
 <img src="https://img.shields.io/badge/AWS_ECS-000000?logo=amazonecs&logoColor=white"/>
@@ -42,3 +45,6 @@
 <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-000000?logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
+
+**AI**
+<img src="https://img.shields.io/badge/Claude_Code-000000?logo=claude&logoColor=white"/>
